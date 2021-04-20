@@ -1,0 +1,13 @@
+- This is a Tic Tac Toe game which develop through python
+- So in here we give a ability to user to play with computer . 
+- Try to win against the computer 
+
+- In here we use :
+	         1. Random module
+	         2. String functions
+	         3. Functions
+	         4. If statments
+	         5. Loops
+
+Lets Enjoy ! ...... 
+
